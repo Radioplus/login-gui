@@ -1,7 +1,4 @@
-Made by AlphaRadio
+Login GUI
 
-
-Copy this idc
-
-
-01/02/2021
+Use this for templates n shit, this doesn't act like a login system
+* REMEMBER THIS IS JUST THE GUI
