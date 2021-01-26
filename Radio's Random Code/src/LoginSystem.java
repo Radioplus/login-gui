@@ -123,8 +123,8 @@ class WelcomePage {
     WelcomePage(String userID){
 
         welcomeLabel.setBounds(0,0,200,35);
-        welcomeLabel.setFont(new Font(null,Font.PLAIN,25));
-        welcomeLabel.setText("Welcome! "+userID);
+        welcomeLabel.setFont(new Font(null,Font.PLAIN,15));
+        welcomeLabel.setText("Welcome To Radioware!");
 
         frame.add(welcomeLabel);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
