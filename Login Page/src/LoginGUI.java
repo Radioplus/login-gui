@@ -4,11 +4,11 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField; 
-public class SwingFirstExample {
+class SwingFirstExample {
     
     public static void main(String[] args) {    
       
-        JFrame frame = new JFrame("RadioWare Example Login");
+        JFrame frame = new JFrame("Radio's Example Login");
         
         frame.setSize(350, 200);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
