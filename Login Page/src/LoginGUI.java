@@ -25,7 +25,7 @@ class SwingFirstExample {
        
         panel.setLayout(null);
 
-        JLabel userLabel = new JLabel("Username");
+        JLabel userLabel = new JLabel("Email");
     
         userLabel.setBounds(10,20,80,25);
         panel.add(userLabel);
