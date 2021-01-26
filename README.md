@@ -3,7 +3,7 @@ Login System, + GUI.
 Hi, this was developed by Radio and this is the
 public source.
 
-Use : A simple easy to use swing java, login gui.
+* Use : A simple easy to use swing java, login gui.
 
 you can also join my discord
 * https://discord.gg/mvyBt5GkJX
