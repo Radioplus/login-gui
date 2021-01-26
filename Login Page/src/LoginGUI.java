@@ -8,7 +8,7 @@ class SwingFirstExample {
     
     public static void main(String[] args) {    
       
-        JFrame frame = new JFrame("Radio's Example Login");
+        JFrame frame = new JFrame("Login Page");
         
         frame.setSize(350, 200);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
